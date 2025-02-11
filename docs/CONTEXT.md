@@ -61,11 +61,5 @@ Pomo is a productivity desktop application designed to help users focus on one t
   - Total focus time: Calculated as the sum of all completed timer durations.
   - Number of rest periods: Counted each time a rest period concludes.
 
-## Assumptions and Constraints
-- **Platform**: The app will be developed for Windows, macOS, or Linux. (To be determined by the developer.)
-- **Language**: Python with Tkinter or similar GUI framework is preferred.
-- **Dependencies**: Any external libraries used must be compatible with the target platform(s).
-- **Notifications**: The notification system should work across all platforms without requiring additional setup.
-
 ## Conclusion
-Pomo is designed to be a simple yet effective productivity tool. By focusing on clear visual feedback, intuitive controls, and a streamlined workflow, users can easily manage their focus sessions and rest periods throughout the day. This documentation provides a detailed breakdown of the app's functionality, ensuring that developers have a clear understanding of how the app should behave and function.
+Pomo is designed to be a simple yet effective productivity tool. By focusing on clear visual feedback, intuitive controls, and a streamlined workflow, users can easily manage their focus sessions and rest periods throughout the day.
